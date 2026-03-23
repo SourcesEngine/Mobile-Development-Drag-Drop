@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Emoney</string>
+
+    <string name="tagline">Your Smart Money Companion</string>
+
+    <!-- Login -->
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="sign_in_subtitle">Sign in to your account</string>
+    <string name="hint_mobile">+63 9XX XXX XXXX</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="label_mobile">Mobile Number</string>
+    <string name="label_password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="btn_face_id">Face ID</string>
+    <string name="btn_fingerprint">Fingerprint</string>
+    <string name="no_account">No account? </string>
+    <string name="sign_up_free">Sign up free</string>
+
+    <!-- Home -->
+    <string name="available_balance">Available Balance</string>
+    <string name="rewards">Rewards</string>
+    <string name="send_money">Send\nMoney</string>
+    <string name="receive_money">Receive\nMoney</string>
+    <string name="bank_transfer">Bank\nTransfer</string>
+    <string name="add_money">Add\nMoney</string>
+    <string name="pay_bills">Pay Bills</string>
+    <string name="load">Load</string>
+    <string name="data">Data</string>
+    <string name="treats">Treats</string>
+    <string name="just_for_you">Just For You</string>
+    <string name="earn_php50">EARN\nPHP 50</string>
+    <string name="refer">Refer</string>
+    <string name="refer_desc">*Get PHP 50 for every friend who registers with your code!</string>
+    <string name="cashback">PHP\n100\nCASH-\nBACK</string>
+    <string name="recent_activities">Recent Activities</string>
+    <string name="view_all">View All</string>
+
+    <!-- Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan to Pay</string>
+    <string name="nav_cards">My Cards</string>
+    <string name="nav_more">More</string>
+</resources>
